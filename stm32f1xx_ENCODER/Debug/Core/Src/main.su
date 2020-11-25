@@ -1,0 +1,7 @@
+main.cpp:70:6:virtual void Usb::write(uint8_t*)	8	static
+main.cpp:65:1:Usb::Usb()	8	static
+main.cpp:161:6:void SystemClock_Config()	96	static
+main.cpp:108:5:int main()	48	static
+main.cpp:297:6:void EXTI0_IRQHandler()	8	static
+main.cpp:325:6:void Error_Handler()	0	static
+main.cpp:331:1:cpp)	0	static
